@@ -34,10 +34,10 @@ tags:
 media: https://cli.masoko.net/uploads/vhs/media.gif
 logo: https://cli.masoko.net/uploads/vhs/logo.png
 updated: '2026-07-15'
-repo_stars: 20839
-repo_updated: "2026-09-01"
+repo_stars: 20845
+repo_updated: "2026-09-09"
 repo_created: "2022-07-19"
-repo_release: "v0.11.0"
-repo_release_date: "2026-03-10"
+repo_release: "v0.12.0"
+repo_release_date: "2026-09-09"
 comments: []
 ---

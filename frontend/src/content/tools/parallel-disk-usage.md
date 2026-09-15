@@ -32,8 +32,8 @@ tags:
 media: https://asciinema.org/a/416664
 logo: https://avatars.githubusercontent.com/u/11488886?v=4
 updated: '2026-07-19'
-repo_stars: 728
-repo_updated: "2026-08-10"
+repo_stars: 729
+repo_updated: "2026-09-14"
 repo_created: "2021-05-16"
 repo_release: "0.24.0"
 repo_release_date: "2026-05-28"

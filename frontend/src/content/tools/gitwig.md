@@ -41,7 +41,7 @@ tags:
 media: https://gitwig.dev/assets/preview-QQoAezg8.gif
 logo: https://github.com/tareqmy/gitwig/raw/master/resources/logo-dark.svg
 updated: '2026-08-21'
-repo_stars: 85
+repo_stars: 87
 repo_updated: "2026-09-12"
 repo_created: "2025-05-26"
 repo_release: "v2.5.17"

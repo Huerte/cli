@@ -31,8 +31,8 @@ tags:
 media: https://github.com/shshemi/tabiew/raw/main/images/main.gif
 logo: https://avatars.githubusercontent.com/u/6219240?v=4
 updated: '2026-07-09'
-repo_stars: 3102
-repo_updated: "2026-09-12"
+repo_stars: 3104
+repo_updated: "2026-09-15"
 repo_created: "2024-04-27"
 repo_release: "v0.15.1"
 repo_release_date: "2026-09-09"

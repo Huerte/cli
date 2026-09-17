@@ -35,9 +35,9 @@ tags:
 media: https://raw.githubusercontent.com/nklmilojevic/sofka/main/docs/demo.gif
 logo: https://sofka.rs/assets/favicon.svg
 updated: '2026-09-05'
-repo_stars: 1175
-repo_updated: "2026-09-15"
+repo_stars: 1192
+repo_updated: "2026-09-16"
 repo_created: "2026-07-01"
-repo_release: "v0.28.0"
-repo_release_date: "2026-09-15"
+repo_release: "v0.28.1"
+repo_release_date: "2026-09-16"
 ---

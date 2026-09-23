@@ -51,9 +51,9 @@ media: >-
   https://raw.githubusercontent.com/ravachol/kew/main/images/kew-terminal-music-player.gif
 logo: https://kewplayer.com/images/kew.gif
 updated: '2026-07-18'
-repo_stars: 3096
+repo_stars: 3097
 repo_updated: "2026-09-22"
 repo_created: "2023-05-17"
-repo_release: "v4.3.5"
-repo_release_date: "2026-09-21"
+repo_release: "v4.3.6"
+repo_release_date: "2026-09-22"
 ---
